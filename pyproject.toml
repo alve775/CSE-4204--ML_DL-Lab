@@ -1,0 +1,17 @@
+[project]
+name = "cse-4204"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.9"
+dependencies = [
+    "dask>=2024.8.0",
+    "ipykernel>=6.31.0",
+    "keras==3.10.0",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "pandas>=2.3.3",
+    "scikeras>=0.13.0",
+    "scikit-learn>=1.6.1",
+    "tensorflow>=2.20.0",
+    "tools>=1.0.26",
+]
